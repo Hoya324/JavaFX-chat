@@ -1,5 +1,7 @@
 # JavaFX-chat
 
+- [동빈나-JavaFX GUI 채팅 프로그램 개발하기](https://youtu.be/0gMYlUppe-c)
+
 ## 동작 과정
 
 ### 서버 시작
