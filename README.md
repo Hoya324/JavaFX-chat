@@ -23,4 +23,4 @@
 <img width="412" alt="Screen Shot 2022-10-17 at 10 55 21 AM" src="https://user-images.githubusercontent.com/96857599/196072918-d4aae58b-d3e1-4b9a-b1a8-a15992284267.png">
 
 ### 로그 기록
-<img width="390" alt="Screen Shot 2022-10-17 at 10 56 22 AM" src="https://user-images.githubusercontent.com/96857599/196073011-8eea04ff-519a-416b-9ab1-c1fcf628dd9d.png">
+<img width="398" alt="Screen Shot 2022-10-17 at 11 22 24 AM" src="https://user-images.githubusercontent.com/96857599/196075522-91fdab9d-7b2d-408d-b64d-d65a0f3d3175.png">
